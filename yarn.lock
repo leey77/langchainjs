@@ -9708,7 +9708,7 @@ __metadata:
     lunary: ^0.6.11
     mammoth: ^1.6.0
     mongodb: ^5.2.0
-    mysql2: ^3.3.3
+    mysql2: ^3.9.8
     neo4j-driver: ^5.17.0
     node-llama-cpp: 2.7.3
     notion-to-md: ^3.1.0
@@ -9836,7 +9836,7 @@ __metadata:
     lunary: ^0.6.11
     mammoth: ^1.6.0
     mongodb: ">=5.2.0"
-    mysql2: ^3.3.3
+    mysql2: ^3.9.8
     neo4j-driver: "*"
     node-llama-cpp: "*"
     notion-to-md: ^3.1.0
@@ -30383,9 +30383,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mysql2@npm:^3.3.3":
-  version: 3.3.3
-  resolution: "mysql2@npm:3.3.3"
+"mysql2@npm:^3.9.8":
+  version: 3.10.1
+  resolution: "mysql2@npm:3.10.1"
   dependencies:
     denque: ^2.1.0
     generate-function: ^2.3.1
@@ -30395,7 +30395,7 @@ __metadata:
     named-placeholders: ^1.1.3
     seq-queue: ^0.0.5
     sqlstring: ^2.3.2
-  checksum: 99bf73dc685102a7ff543a6457c1717b235a6808488da940769a36dafc2d7068cfca737ffd6c158f157a836949db2852eb79471dd3d4985c043c43538ba57052
+  checksum: 293e1a76bfdbde146285ee7028336da7693b5dfb507a7c264216fdb3fe2088ba0f5d5a45a0a9e7c4de4f39c3f44edbe890fb05b28299d6c731fc2e4a281836e3
   languageName: node
   linkType: hard
 
